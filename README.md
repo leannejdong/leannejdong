@@ -9,7 +9,8 @@ Before C++, I programmed mostly in R for roughly 9 years.
 ### Current projects 
 
 - [Multiway-Split Generalized Optimal Sparse Decision Tree](https://gitlab.com/leannejdong/mgosdt/-/tree/dev)
-- [District Heating and Thermal Network]
+- District Heating and Thermal Network
+- [Undirected graph extension of INSEL ENGINE](https://insel4d.ca/en/home_en.html)
 
 ### Completed projects
 
@@ -45,6 +46,9 @@ Before C++, I programmed mostly in R for roughly 9 years.
 
 ## What am I doing now?
 - 🔭 I’m currently working on [mgosdt](https://gitlab.com/leannejdong/mgosdt/-/tree/dev)
-- 🌱 I’m currently learning [Multithreading in modern C++](https://github.com/leannejdong/MultiThreading)
+- 🌱 I’m currently learning 
+     - [Modern C++ Concurrency](https://github.com/leannejdong/MultiThreading)
+     - Game programming
+     - how to write paralleled codes, SIMD Intrinsics ...
 - 👯 I’m looking to collaborate on C++ and possibly Rust
 
