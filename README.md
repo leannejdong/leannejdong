@@ -1,7 +1,7 @@
 # Hi there 👋
 
-My name is Leanne Dong. I am a Mathematician and a Postdoctoral Software Developer from [ENCS, Concordia University](https://www.concordia.ca/offices/ci/ifo/ENCS.html). my current focus has been Engineering and AI software development.
-Mostly in modern C++ and a little Python. Prior to my C++ addiction, I programmed mostly in R (for roughly 9 years).
+My name is Leanne Dong. I am a Mathematician and a Postdoctoral Software Developer from [ENCS, Concordia University](https://www.concordia.ca/offices/ci/ifo/ENCS.html). My current focus has been Engineering and AI software development.
+Mostly in modern C++ and a little Python. Prior to the C++ addiction, I programmed mostly in R (for roughly 9 years).
 I'm keen about learning new technology and new languages features that help problem solving in real world. 
 
 ## Projects (Postdoctoral)
