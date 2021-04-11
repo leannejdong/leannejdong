@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 My name is Leanne Dong. I am a Mathematician and a Postdoctoral Software Developer from [ENCS, Concordia University](https://www.concordia.ca/offices/ci/ifo/ENCS.html).
 I'm keen about learning new technology and other languages. But my current focus has been C++ and a little Python. (Mostly C++11, 14, 17, learning C++20)
@@ -43,7 +43,7 @@ Before C++, I programmed mostly in R for roughly 9 years.
 ## PhD thesis presentation
 - [Stochastic Navier-Stokes equations on rotating spheres with stable Lévy Noise](https://github.com/leannejdong/SNSE_spheres)
 
-
+## What am I doing now?
 - 🔭 I’m currently working on [mgosdt](https://gitlab.com/leannejdong/mgosdt/-/tree/dev)
 - 🌱 I’m currently learning [Multithreading in modern C++](https://github.com/leannejdong/MultiThreading)
 - 👯 I’m looking to collaborate on C++ and possibly Rust
