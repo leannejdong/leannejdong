@@ -4,7 +4,8 @@ My name is Leanne Dong. I am a Mathematician and a Postdoctoral Software Develop
 Mostly in modern C++ and a little Python. Prior to my C++ addiction, I programmed mostly in R (for roughly 9 years).
 On the one hand, I am hoping to develop fluency in C++ and contribute to the standardlization process; On other hand,
 I'm keen about learning new tools and languages features that help problem solving in real world. 
-Warning: I am not good enough. But, I am determined for a career in C++. Please do not attempt to modify what I've been in love with :alien:.
+
+**Warning**: I am not good enough. But, I am determined for a career in C++. Please do not attempt to modify what I've been in love with :alien:.
 
 ## Projects (Postdoctoral)
 
