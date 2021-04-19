@@ -11,7 +11,7 @@ I'm keen about learning new tools and languages features that help problem solvi
 
 ### Current projects 
 
-- [Multiway-Split Generalized Optimal Sparse Decision Tree](https://gitlab.com/leannejdong/mgosdt/-/tree/dev)
+- [Multiway-Split Generalized Optimal Sparse Decision Tree](https://gitlab.com/leannejdong/mgosdt/-/tree/dev1)
 - District Heating and Thermal Network
 - [Undirected graph extension of INSEL ENGINE](https://insel4d.ca/en/home_en.html)
 
@@ -31,7 +31,7 @@ I'm keen about learning new tools and languages features that help problem solvi
 
 - [Simple Graph GUI](https://github.com/leannejdong/simple-graph-tool)
 
-## Utility/Hobby projects
+## Utility/Side projects
 - [My collection of useful snippets for various projects](https://github.com/leannejdong/snippets)
 - [A minimal sparse tensor library](https://github.com/leannejdong/SparseTensor)
 - [Classification and Regression Trees](https://github.com/leannejdong/CART)
