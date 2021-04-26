@@ -1,7 +1,7 @@
 # Hi there 👋
 
 My name is Leanne Dong. I am a Mathematician and a Postdoctoral Software Developer from [ENCS, Concordia University](https://www.concordia.ca/offices/ci/ifo/ENCS.html). My current focus has been Engineering and AI software development.
-Mostly in modern C++ and a little Python. Prior to my C++ addiction, I programmed mostly in R (for roughly 9 years).
+Mostly in modern C++ and some Python. Prior to my C++ addiction, I programmed mostly in R (for roughly 9 years).
 On the one hand, I am hoping to develop fluency in C++ and contribute to the standardlization process; On other hand,
 I'm keen about learning new tools and languages features that help problem solving in real world. 
 
@@ -50,9 +50,10 @@ I'm keen about learning new tools and languages features that help problem solvi
 ## What am I doing now?
 - 🔭 I’m currently working on [mgosdt](https://gitlab.com/leannejdong/mgosdt/-/tree/dev)
 - 🌱 I’m currently learning 
+     - to write python wrappers for my C++ projects
      - [Modern C++ Concurrency](https://github.com/leannejdong/MultiThreading)
      - Game programming
      - how to write paralleled codes, SIMD Intrinsics ...
 - 👯 I’m looking to collaborate on C++ and have a small interest learning Rust
-- Contact me on twitter or Linkedin if you want...
+- Contact me on twitter or Linkedin if feel like it...
 
