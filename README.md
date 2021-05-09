@@ -48,7 +48,7 @@ I'm keen about learning new tools and languages features that help problem solvi
 - [Stochastic Navier-Stokes equations on rotating spheres with stable Lévy Noise](https://github.com/leannejdong/SNSE_spheres)
 
 ## What am I doing now?
-- 🔭 I’m currently working on [mgosdt](https://gitlab.com/leannejdong/mgosdt/-/tree/dev)
+- 🔭 I’m currently working on nonlinear hydraulic network and [mgosdt](https://gitlab.com/leannejdong/mgosdt/-/tree/dev)
 - 🌱 I’m currently learning 
      - to write python wrappers for my C++ projects
      - [Modern C++ Concurrency](https://github.com/leannejdong/MultiThreading)
