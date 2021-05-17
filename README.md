@@ -5,7 +5,8 @@ Mostly in modern C++ and some Python. Prior to my C++ addiction, I programmed mo
 On the one hand, I am hoping to develop fluency in C++ and contribute to the standardlization process; On other hand,
 I'm keen about learning new tools and languages features that help problem solving in real world. 
 
-**Warning**: I am not good enough. But, I am determined for a career in C++. Please do not attempt to modify what I've been in love with :alien:.
+**Warning**: I am not good enough. If I ever claim to you I'm good at it, then I must be very drunk.
+ Nevertheless, I am determined for a career in C++ and hoping to be better. Lost in Mars, fell in love with :alien: ...
 
 ## Projects (Postdoctoral)
 
