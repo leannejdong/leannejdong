@@ -6,7 +6,6 @@ On the one hand, I am hoping to develop fluency in C++ and contribute to the sta
 I'm keen about learning new tools and languages features that help problem solving in real world. 
 
 **Warning**: I am not good enough. If I ever claim to you I'm good at it, then I must be very drunk.
- Nevertheless, I am determined for a career in C++ and hoping to be better. Lost in Mars, fell in love with :alien: ...
 
 ## Projects (Postdoctoral)
 
