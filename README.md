@@ -45,11 +45,8 @@ Mostly in modern C++ and some Python.
 
 ## What am I doing now?
 - 🔭 I’m currently working on nonlinear hydraulic network and [mgosdt](https://gitlab.com/leannejdong/mgosdt/-/tree/dev)
-- 🌱 I’m currently learning 
-     - to write python wrappers for my C++ projects
-     - [Modern C++ Concurrency](https://github.com/leannejdong/MultiThreading)
-     - Game programming
-     - how to write paralleled codes, SIMD Intrinsics, profiling and performance optimization...
+- 🌱 Hybrid numerical methods for hyperbolic PDE
+- 🌱 Try to stay focus in writing my two postdoc papers
 - 👯 I’m looking to collaborate on C++ and have a small interest learning Rust
 - Contact me on twitter or Linkedin if feel like it...
 
