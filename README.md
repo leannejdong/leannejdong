@@ -45,8 +45,9 @@ Mostly in modern C++ and some Python.
 
 ## What am I doing now?
 - 🔭 I’m currently working on nonlinear hydraulic network and [mgosdt](https://gitlab.com/leannejdong/mgosdt/-/tree/dev)
+- 🔭 Implementing prim's MST algorithm to generate (hydraulic/thermal)network outputs
 - 🌱 Hybrid numerical methods for hyperbolic PDE
 - 🌱 Try to stay focus in writing my two postdoc papers
-- 👯 I’m looking to collaborate on C++ and have a small interest learning Rust
+- 👯 I’m looking to collaborate on C++ and have an interest learning Rust!
 - Contact me on twitter or Linkedin if feel like it...
 
