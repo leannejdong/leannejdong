@@ -44,7 +44,7 @@ An average day of my work is a balance non-ancient C++ and Python.
 - [Stochastic Navier-Stokes equations on rotating spheres with stable Lévy Noise](https://github.com/leannejdong/SNSE_spheres)
 
 ## What am I doing now?
-- 🔭 I’m currently working on nonlinear hydraulic network and [mgosdt](https://gitlab.com/leannejdong/mgosdt/-/tree/dev)
+- 🔭 I’m currently finalizing [nonlinear hydraulic network](https://github.com/leannejdong/HydraulicNetwork) and [mgosdt](https://gitlab.com/leannejdong/mgosdt/-/tree/dev)
 - 🔭 Implementing prim's MST algorithm to generate (hydraulic/thermal)network outputs, based on the location of the streets and building.
 - 🌱 Hybrid numerical methods for hyperbolic PDE
 - 🌱 Try to stay focus in writing my two postdoc papers
