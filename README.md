@@ -45,7 +45,6 @@ An average day of my work is a balance non-ancient C++ and Python.
 
 ## What am I doing now?
 - 🔭 I’m currently finalizing [nonlinear hydraulic network](https://github.com/leannejdong/HydraulicNetwork) and [mgosdt](https://gitlab.com/leannejdong/mgosdt/-/tree/dev)
-- 🔭 Implementing prim's MST algorithm to generate (hydraulic/thermal)network outputs, based on the location of the streets and building.
 - 🌱 Hybrid numerical methods for hyperbolic PDE
 - 🌱 Try to stay focus in writing my two postdoc papers
 - 👯 I’m looking to collaborate on C++ and have an interest learning Rust!
