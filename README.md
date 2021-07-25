@@ -47,6 +47,6 @@ An average day of my work is a balance non-ancient C++ and Python.
 - 🔭 I’m currently finalizing [nonlinear hydraulic network](https://github.com/leannejdong/HydraulicNetwork) and [mgosdt](https://gitlab.com/leannejdong/mgosdt/-/tree/dev)
 - 🌱 Hybrid numerical methods for hyperbolic PDE
 - 🌱 Try to stay focus in writing my two postdoc papers
-- 👯 I’m looking to collaborate on C++ and have an interest learning Rust!
+- 👯 I’m looking to collaborate on C++ and learning Rust!
 - Contact me on twitter or Linkedin if feel like it...
 
