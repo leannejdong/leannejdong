@@ -47,6 +47,6 @@ An average day of my work is mostly C++ and some Python.
 - 🔭 I’m currently finalizing [nonlinear hydraulic network](https://github.com/leannejdong/HydraulicNetwork) and [mgosdt](https://gitlab.com/leannejdong/mgosdt/-/tree/dev)
 - 🌱 Hybrid numerical methods for hyperbolic PDE
 - 🌱 Try to stay focus in writing my two postdoc papers
-- 👯 I’m looking to collaborate on C++ and learning Rust! Have the interest to learn C#, Javascript.
+- 👯 I’m looking to collaborate on C++ and learning Rust! Have the interest to learn C#, Javascript. I mainly develop over Linux but also have the capacity to work over windows.
 - Contact me on twitter or Linkedin if feel like it...
 
