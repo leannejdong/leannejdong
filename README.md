@@ -44,9 +44,9 @@ An average day of my work is mostly C++ and some Python.
 - [Stochastic Navier-Stokes equations on rotating spheres with stable Lévy Noise](https://github.com/leannejdong/SNSE_spheres)
 
 ## What am I doing now?
-- 🔭 I’m currently finalizing [nonlinear hydraulic network](https://github.com/leannejdong/HydraulicNetwork) and [mgosdt](https://gitlab.com/leannejdong/mgosdt/-/tree/dev)
+- 🔭 I’m currently finalizing [nonlinear hydraulic network simulation engine](https://github.com/leannejdong/EngineSim) and [mgosdt](https://gitlab.com/leannejdong/mgosdt/-/tree/dev)
 - 🌱 Hybrid numerical methods for hyperbolic PDE
 - 🌱 Try to stay focus in writing my two postdoc papers
-- 🔭 Working on Async C++ API 💜 
+- 🔭 Working on Async C++ REST API 💜 
 - Contact me on twitter or Linkedin if feel like it...
 
