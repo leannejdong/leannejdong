@@ -48,5 +48,3 @@ An average day of my work is mostly C++ and some Python.
 - 🌱 Hybrid numerical methods for hyperbolic PDE
 - 🌱 Try to stay focus in writing my two postdoc papers
 - 🔭 Working on Async C++ REST API 💜 
-- Contact me on twitter or Linkedin if feel like it...
-
