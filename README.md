@@ -3,6 +3,9 @@
 My name is Leanne Dong. I am a Mathematician and a Postdoctoral Software Developer from [ENCS, Concordia University](https://www.concordia.ca/offices/ci/ifo/ENCS.html). My current focus has been Engineering and AI software development.
 An average day of my work is mostly C++ and some Python.
 
+<img
+  src="https://github-readme-stats.vercel.app/api?username=leannejdongc&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Leanne+Dong's+GitHub+Stats&show_icons=true"
+/>
 ## Projects (Postdoctoral)
 
 ### Current projects 
