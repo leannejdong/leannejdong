@@ -3,12 +3,9 @@
 My name is Leanne Dong. I am a Mathematician and a Postdoctoral Software Developer from [ENCS, Concordia University](https://www.concordia.ca/offices/ci/ifo/ENCS.html). My current focus has been Engineering and AI software development.
 An average day of my work is mostly C++ and some Python.
 
-<a href="https://github.com/leannejdong/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leannejdong&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/leannejdong/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leannejdong&repo=convoychat" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leannejdong&show_icons=true&theme=radical)
+
+
 ## Projects (Postdoctoral)
 
 ### Current projects 
