@@ -47,4 +47,4 @@ An average day of my work is mostly C++ and some Python.
 - 🔭 I’m currently finalizing [nonlinear hydraulic network simulation engine](https://github.com/leannejdong/EngineSim) and [mgosdt](https://gitlab.com/leannejdong/mgosdt/-/tree/dev)
 - 🌱 Hybrid numerical methods for hyperbolic PDE
 - 🌱 Try to write my postdoc papers
-- 🔭 Working on [Async C++ SDK to RESTful API 💜](https://github.com/leannejdong/sdk) 
+- 🔭 Working on [Async C++ SDK to RESTful API 💜](https://github.com/bitwyre/sdk/tree/develop/cpp) 
