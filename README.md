@@ -48,4 +48,4 @@ An average day of my work is mostly C++ and some Python.
 - 🌱 Hybrid numerical methods for hyperbolic PDE
 - 🌱 Try to write my postdoc papers
 - 🔭 Just completed a [Async C++ SDK to RESTful API 💜](https://github.com/bitwyre/sdk/tree/develop/cpp)
-- 🌱 Relocating
+- 🌱 Open for C++ oppotunities in all domains. Have a special favor on real-time low latency :]
