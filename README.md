@@ -1,7 +1,7 @@
 # Hi there 👋
 
-My name is Leanne Dong. I am a freelance developer. I worked at [ENCS, Concordia University](https://www.concordia.ca/offices/ci/ifo/ENCS.html) as a Postdoctoral C++ developer. My focus has been Environmental Engineering and xAI software development. My formal academic background is in Mathematics.
-An average day of my work is mostly C++ and some Python. Currently I'm learning Rust and seeking for interesting new software engineering opportunities.
+My name is Leanne Dong. I am a Australian-based freelance developer. I worked at [ENCS, Concordia University](https://www.concordia.ca/offices/ci/ifo/ENCS.html) as a Postdoctoral C++ developer. My focus has been Environmental Engineering and xAI software development. My formal academic background is in Mathematics.
+An average day of my work is mostly C++ and some Python. Currently I'm learning Rust and seeking for interesting new software engineering opportunities. My primary interests lie in Audio/Video/Music software industried at the moment, or whereever real time low latency C++ has a role ;]
 
 ## Projects (Postdoctoral)
 
