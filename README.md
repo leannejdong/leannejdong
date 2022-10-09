@@ -1,7 +1,6 @@
 # Hi there 👋
 
-My name is Leanne Dong. I am a Aussie-based independent developer work on music information retrieval. I worked at [ENCS, Concordia University](https://www.concordia.ca/offices/ci/ifo/ENCS.html) as a Postdoctoral Fellow. My focus has been Environmental Engineering and xAI software development with C++. My formal academic training has been in Mathematics.
-An average day of my work is mostly C++ and some scripting. My primary interests lie in Audio/Video/Music software industries at the moment, or wherever real time low latency C++ has a role ;]
+My name is Leanne Dong. I am a Aussie-based independent developer. I'm used to work on music information retrieval. Before that I worked at [ENCS, Concordia University](https://www.concordia.ca/offices/ci/ifo/ENCS.html) as a Postdoctoral Fellow. My focus during postdoc has been Environmental Engineering and xAI software development with C++. My formal academic training has been in Mathematics.
 
 ## Projects (Postdoctoral)
 
@@ -48,3 +47,4 @@ An average day of my work is mostly C++ and some scripting. My primary interests
 
 - 🔭 Completed a [Async C++ SDK to RESTful API 💜](https://github.com/bitwyre/sdk/tree/develop/cpp)
 - 🌱 Working on Audio detection, unit testing and logging with C++, JUCE and essentia. (NDA)
+- Getting Rusty
