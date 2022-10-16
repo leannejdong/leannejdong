@@ -1,7 +1,7 @@
 # Hi there 👋
 
-My name is Leanne Dong. I am a Aussie-based independent developer (Once upon a time I was a business woman, then turned into a Mathematician after PhD, then turned into a programmer during the last two postdocs). I'm used to work on music information retrieval. Before that I worked at [ENCS, Concordia University](https://www.concordia.ca/offices/ci/ifo/ENCS.html) as a Postdoctoral Fellow. My focus during postdoc has been Environmental Engineering and xAI software development with C++. My formal academic training has been in Mathematics.
-Currently I'm interested in fun projects around audio, cryptography/blockchain, networks, you name it...
+My name is Leanne Dong. I am a Aussie-based independent developer (Once upon a time I was a researcher in stochastic processes (semi-business-woman), then turned into a Mathematician after PhD, then turned into a programmer during the last two postdocs). I'm used to work on music information retrieval. Before that I worked at [ENCS, Concordia University](https://www.concordia.ca/offices/ci/ifo/ENCS.html) as a Postdoctoral Fellow. My focus during postdoc has been Environmental Engineering and xAI software development with C++. My formal academic training has been in Mathematics.
+Currently I'm interested in fun projects around audio/music theory, cryptography/digital assets, network/audit security, quantitative finance, you name it...
 
 ## Projects (Postdoctoral)
 
@@ -49,4 +49,4 @@ Currently I'm interested in fun projects around audio, cryptography/blockchain, 
 
 - 🔭 Completed a [Async C++ SDK to RESTful API 💜](https://github.com/bitwyre/sdk/tree/develop/cpp)
 - 🌱 Working on Audio detection, unit testing and logging with C++, JUCE and essentia. (NDA)
-- Getting Rusty
+- Getting Rusty..
