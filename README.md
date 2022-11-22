@@ -5,7 +5,7 @@ Currently I'm interested in fun projects around audio/music theory, cryptography
 
 ## Projects (Postdoctoral)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leannejdong&show_icons=true&hide=javascript,html)](https://github.com/leannejdong/github-readme-stats)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leannejdong&layout=compact&show_icons=true&hide_border=true&bg_color=232326&icon_color=ebcb8b&hide=jupyter%20notebook,TeX,css)
 
 ### Current projects 
 
