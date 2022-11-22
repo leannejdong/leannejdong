@@ -5,6 +5,9 @@ Currently I'm interested in fun projects around audio/music theory, cryptography
 
 ## Projects (Postdoctoral)
 
+![](https://raw.githubusercontent.com/leannejdong/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/leannejdong/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 ### Current projects 
 
 - Building secrets with Rust and his other cute friends..
