@@ -5,7 +5,7 @@ Currently I'm interested in fun projects around audio/music theory, cryptography
 
 ## Projects (Postdoctoral)
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leannejdong&layout=compact&show_icons=true&hide_border=true&bg_color=232326&icon_color=ebcb8b&hide=jupyter%20notebook,html,Mathematica,TeX,css)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leannejdong&layout=compact&show_icons=true&hide_border=true&bg_color=232326&icon_color=ebcb8b&hide=jupyter%20notebook,html,Mathematica,TeX,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Current projects 
 
@@ -51,4 +51,6 @@ Currently I'm interested in fun projects around audio/music theory, cryptography
 
 - 🔭 Completed a [Async C++ SDK to RESTful API 💜](https://github.com/bitwyre/sdk/tree/develop/cpp)
 - 🌱 Working on Audio detection, unit testing and logging with C++, JUCE and essentia. (NDA)
-- Getting Rusty..
+- Learning Rust
+- Mostly C++, sometimes networking, web dev
+- Fix my family of 4 computers
