@@ -4,8 +4,9 @@ My name is Leanne Dong. I am a Aussie-based independent developer (Once upon a t
 Currently I'm interested in fun projects around audio/music theory, cryptography/digital assets, network/audit security, quantitative finance, you name it...
 
 ## Projects (Postdoctoral)
-
+<!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leannejdong&layout=compact&show_icons=true&hide_border=true&bg_color=232326&icon_color=ebcb8b&hide=jupyter%20notebook,html,Mathematica,TeX,css)](https://github.com/anuraghazra/github-readme-stats)
+--->
 
 ### Current projects 
 
@@ -46,6 +47,10 @@ Currently I'm interested in fun projects around audio/music theory, cryptography
 ## PhD thesis presentation
 - [Stochastic Navier-Stokes equations on rotating spheres with stable Lévy Noise](https://github.com/leannejdong/SNSE_spheres)
 
+## Current
+
+Working on backend scientific programming at volmex labs (mostly C++, networking, microservice architecture with C++)
+<!---
 ## What have I done and getting done?
 - 🔭 Completed [nonlinear hydraulic network simulation engine](https://github.com/leannejdong/EngineSim) and [mgosdt](https://gitlab.com/leannejdong/mgosdt)
 
@@ -54,3 +59,4 @@ Currently I'm interested in fun projects around audio/music theory, cryptography
 - Learning Rust
 - Mostly C++, sometimes networking, web dev
 - Fix my family of 4 computers
+--->
