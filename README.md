@@ -10,7 +10,7 @@ Currently I'm interested in collaborative projects around audio/music theory and
 
 ### Current projects 
 
-- Building secrets with Rust and his other cute friends..
+- Audio/Multimedia with JUCE C++ (my own projects)
 
 ### Completed projects
 
@@ -46,11 +46,12 @@ Currently I'm interested in collaborative projects around audio/music theory and
 
 ## PhD thesis presentation
 - [Stochastic Navier-Stokes equations on rotating spheres with stable Lévy Noise](https://github.com/leannejdong/SNSE_spheres)
+<!---
 
 ## Current
 
 Working on backend scientific programming at volmex labs (mostly C++, networking, microservice architecture with C++)
-<!---
+
 ## What have I done and getting done?
 - 🔭 Completed [nonlinear hydraulic network simulation engine](https://github.com/leannejdong/EngineSim) and [mgosdt](https://gitlab.com/leannejdong/mgosdt)
 
