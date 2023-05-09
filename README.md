@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Leanne Dong. I am a Aussie-based independent developer (Once upon a time I was a researcher in stochastic processes (semi-business-woman), then turned into a Mathematician after PhD, then turned into a programmer during the last two postdocs). I'm used to work on music information retrieval. Before that I worked at [ENCS, Concordia University](https://www.concordia.ca/offices/ci/ifo/ENCS.html) as a Postdoctoral Fellow. My focus during postdoc has been Environmental Engineering and xAI software development with C++. My formal academic training has been in Mathematics.
+My name is Leanne Dong. I am a Aussie-based independent developer (Once upon a time I was a researcher in stochastic processes, then turned into a Mathematician after PhD, then turned into a programmer during the last two postdocs). I'm used to work on music information retrieval. Before that I worked at [ENCS, Concordia University](https://www.concordia.ca/offices/ci/ifo/ENCS.html) as a Postdoctoral Fellow. My focus during postdoc has been Environmental Engineering and xAI software development with C++. My formal academic training has been in Mathematics.
 Currently I'm dabbling multimedia projects around audio/video effects, film making and real time computer graphics. 
 
 ## Projects (Postdoctoral)
@@ -10,8 +10,8 @@ Currently I'm dabbling multimedia projects around audio/video effects, film maki
 
 ### Current projects 
 
-- Audio effect with JUCE C++ 
-- Animated film making 
+- Audio effect C++/JUCE
+- Legacy plugin UI C++/JUCE 
 
 ### Completed projects
 
