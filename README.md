@@ -1,7 +1,10 @@
 # Hi there 👋
 
-My name is Leanne Dong. I am a Aussie-based independent developer (Once upon a time I was a researcher in stochastic processes, then turned into a Mathematician after PhD, then turned into a programmer during the last two postdocs). I'm used to work on music information retrieval. Before that I worked at [ENCS, Concordia University](https://www.concordia.ca/offices/ci/ifo/ENCS.html) as a Postdoctoral Fellow. My focus during postdoc has been Environmental Engineering and xAI software development with C++. My formal academic training has been in Mathematics.
-Currently I'm dabbling multimedia projects around audio/video effects, film making and real time computer graphics. 
+My name is Leanne Dong. I am a Aussie-based independent developer (Once upon a time I was a researcher in stochastic processes, then turned into a Mathematician after PhD, then turned into a C++ developer during the last two postdocs). I'm used to work on music information retrieval. Before that I worked at [ENCS, Concordia University](https://www.concordia.ca/offices/ci/ifo/ENCS.html) as a Postdoctoral Fellow. My focus during postdoc has been Environmental Engineering and xAI software development with C++. My formal academic training has been in Mathematics.
+Currently I'm dabbling multimedia projects around audio software development to hardware design. 
+I'm new to hardware interface design but it seems I'm quite into it.
+There could be other projects I can put a foot in. Do not hesitate to reach out. (freelance != free)
+I'm also open to suitable full time opportunity, prefer remote, relocation only feasible with visa sponsorship.
 
 ## Projects (Postdoctoral)
 <!---
@@ -10,11 +13,10 @@ Currently I'm dabbling multimedia projects around audio/video effects, film maki
 
 ### Current projects 
 
-- Audio effect C++/JUCE
-- Legacy plugin UI C++/JUCE 
+- UI design and development for legacy audio hardware (C++/JUCE based)
 
 ### Completed projects
-
+- [Audio detection, linux compatibility of scaler2 music plugin](https://www.youtube.com/watch?v=-HKJgiGPLIc)
 - [Multiway-Split Generalized Optimal Sparse Decision Tree](https://gitlab.com/leannejdong/mgosdt)
 - District Heating and Thermal Network
 - [Undirected graph extension of INSEL ENGINE](https://insel4d.ca/en/home_en.html)
