@@ -12,7 +12,7 @@ I'm also open to suitable full time opportunity, prefer remote, relocation only 
 --->
 
 ### Current projects 
-
+- studying novel approach to NDA emulation
 - UI design and development for legacy audio hardware (C++/JUCE based)
 
 ### Completed projects
