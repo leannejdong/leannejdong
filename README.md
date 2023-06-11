@@ -1,10 +1,9 @@
 # Hi there 👋
 
-My name is Leanne Dong. I am a Aussie-based independent developer (Once upon a time I was a researcher in stochastic processes, then turned into a Mathematician after PhD, then turned into a C++ developer during the last two postdocs). I'm used to work on music information retrieval. Before that I worked at [ENCS, Concordia University](https://www.concordia.ca/offices/ci/ifo/ENCS.html) as a Postdoctoral Fellow. My focus during postdoc has been Environmental Engineering and xAI software development with C++. My formal academic training has been in Mathematics.
+My name is Leanne Dong. I am a Australian independent audio developer (Once upon a time I was a researcher in stochastic processes, then turned into a Mathematician after PhD, then turned into a C++ developer during the last two postdocs). I'm used to work on music information retrieval. Before that I worked at [ENCS, Concordia University](https://www.concordia.ca/offices/ci/ifo/ENCS.html) as a Postdoctoral Fellow. My focus during postdoc has been Environmental Engineering and xAI software development with C++. My formal academic training has been in Mathematics.
 Currently I'm dabbling multimedia projects around audio software development to hardware design. 
-I'm new to hardware interface design but it seems I'm quite into it.
-There could be other projects I can put a foot in. Do not hesitate to reach out. (freelance != free)
-I'm also open to suitable full time opportunity, prefer remote, relocation only feasible with visa sponsorship.
+I heart audio software development, love hardware and mathematics. I am NOT interested in participating any competitions!
+I care about maths education and wellness. 
 
 ## Projects (Postdoctoral)
 <!---
