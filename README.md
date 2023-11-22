@@ -1,9 +1,10 @@
 # Hi there 👋
 
-My name is Leanne Dong. Here is my brief [CV](https://github.com/leannejdong/briefCV).
-I am a Australian independent audio developer (Once upon a time I was a researcher in stochastic processes, then turned into a Mathematician after PhD, then turned into a C++ developer during the last two postdocs). I'm used to work on music information retrieval. Before that I worked at [ENCS, Concordia University](https://www.concordia.ca/offices/ci/ifo/ENCS.html) as a Postdoctoral Fellow. My focus during postdoc has been Environmental Engineering and xAI software development with C++. My first Postdoc fellowship was granted in UTS (Australia). I worked on modelling online social media behavior using Hawkes point processes by manipulating large dataset in R. My formal academic training has been in Mathematics.(Include computational, Pure, Applied and Statistic)
+My name is Leanne Dong. Here is my brief outdated [CV](https://github.com/leannejdong/briefCV).
+I currently work as a coding/robotic instructor and after school educator for young kids.
+I enjoy technology and spending time with good, simple minded people.
+I was an Australian independent audio developer (Once upon a time I was a researcher in stochastic processes, then turned into a Mathematician after PhD, then turned into a C++ developer during the last two postdocs). I'm used to work on music information retrieval. Before that I worked at [ENCS, Concordia University](https://www.concordia.ca/offices/ci/ifo/ENCS.html) as a Postdoctoral Fellow. My focus during postdoc has been Environmental Engineering and xAI software development with C++. My first Postdoc fellowship was granted in UTS (Australia). I worked on modelling online social media behavior using Hawkes point processes by manipulating large dataset in R. My formal academic training has been in Mathematics.(Include computational, Pure, Applied and Statistic)
 Currently I'm dabbling multimedia projects around audio software development to hardware design. 
-I am open to all suitable opportunities around C, C++, embedded, hardware where I could pick up a fit.
 
 * Key skills: C++, Linux, dabbling hardware audio tech and multimedia art
 * Enjoy audio software development, love hardware, mathematics and friends. NOT interested in participating any contests!
