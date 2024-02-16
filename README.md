@@ -3,8 +3,8 @@
 My name is Leanne Dong. Here is my brief outdated [CV](https://github.com/leannejdong/briefCV).
 I currently work as a coding/robotic instructor and after school educator for young kids.
 I enjoy technology and spending time with good, simple minded people.
-I was an Australian independent audio developer (Once upon a time I was a researcher in stochastic processes, then turned into a Mathematician after PhD, then turned into a C++ developer during the last two postdocs). I enjoy lots of topics, from networking, cyber security to front end, full stack web development. I'm used to work on music information retrieval. Before that I worked at [ENCS, Concordia University](https://www.concordia.ca/offices/ci/ifo/ENCS.html) as a Postdoctoral Fellow. My focus during postdoc has been Environmental Engineering and xAI software development with C++. My first Postdoc fellowship was granted in UTS (Australia). I worked on modelling online social media behavior using Hawkes point processes by manipulating large dataset in R. My formal academic training has been in Mathematics.(Include computational, Pure, Applied and Statistic)
-Currently I'm dabbling multimedia projects around audio software development to hardware design. 
+I was an Australian independent audio developer (Once upon a time I was a researcher in stochastic processes, then turned into a Mathematician after PhD, then turned into a C++ developer during the last two postdocs). I enjoy lots of topics, from networking, cyber security to front end, full stack web development. I'm used to work on music information retrieval. Before that I worked at [ENCS, Concordia University](https://www.concordia.ca/offices/ci/ifo/ENCS.html) as a Postdoctoral Fellow. My focus during postdoc has been Environmental Engineering and xAI software development with C++. My first Postdoc fellowship was granted in UTS (Australia). I worked on modelling online social media behavior using Hawkes point processes by manipulating large dataset in R and Python. My formal academic training has been in Mathematics.(Include computational, Pure, Applied and Statistic)
+Currently I'm a coding instructor at [Junior Engineers](https://www.juniorengineers.com.au/classes). 
 
 * Key skills: C++, Linux, dabbling hardware audio tech and multimedia art
 * Enjoy audio software development, love hardware, mathematics and friends. NOT interested in participating any contests!
@@ -16,8 +16,8 @@ Currently I'm dabbling multimedia projects around audio software development to 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leannejdong&layout=compact&show_icons=true&hide_border=true&bg_color=232326&icon_color=ebcb8b&hide=jupyter%20notebook,html,Mathematica,TeX,css)](https://github.com/anuraghazra/github-readme-stats)
 --->
 
-### Current projects 
-- NDA (data science, deep learning, audio plugin, audio hardware)
+### Recent projects 
+- NDA (data science, deep learning, audio plugin, audio hardware, logistic)
 - UI design and development for legacy audio hardware (C++/JUCE based)
 
 ### Completed projects
