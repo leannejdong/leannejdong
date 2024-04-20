@@ -2,10 +2,9 @@
 
 My name is Leanne Dong. Here is my brief outdated [CV](https://github.com/leannejdong/briefCV).
 I currently work as a IoT project coordinator at ESQ Brisbane.
-Previously I was a freelance IT consultant, a coding/robotic instructor and after school educator for young kids.
+Previously I was a freelance IT consultant, a coding/robotic instructor and primary tech educator for at [Junior Engineers](https://www.juniorengineers.com.au/classes). 
 I enjoy technology and spending time with good, simple minded people.
 I was an Australian independent audio developer (Once upon a time I was a researcher in stochastic processes, then turned into a Mathematician after PhD, then turned into a C++ developer during the last two postdocs). I enjoy lots of topics, from networking, cyber security to front end, full stack web development. I'm used to work on music information retrieval. Before that I worked at [ENCS, Concordia University](https://www.concordia.ca/offices/ci/ifo/ENCS.html) as a Postdoctoral Fellow. My focus during postdoc has been Environmental Engineering and xAI software development with C++. My first Postdoc fellowship was granted in UTS (Australia). I worked on modelling online social media behavior using Hawkes point processes by manipulating large dataset in R and Python. My formal academic training has been in Mathematics.(Include computational, Pure, Applied and Statistic)
-Currently I'm a coding instructor at [Junior Engineers](https://www.juniorengineers.com.au/classes). 
 
 * Key skills: C++, Linux, dabbling hardware audio tech and multimedia art
 * Enjoy audio software development, love hardware, mathematics and friends. NOT interested in participating any contests!
@@ -61,7 +60,7 @@ Currently I'm a coding instructor at [Junior Engineers](https://www.juniorengine
 
 Working on backend scientific programming at volmex labs (mostly C++, networking, microservice architecture with C++)
 
-## What have I done and getting done?
+## What have I done and getting done? [[OUTDATED]]
 - 🔭 Completed [nonlinear hydraulic network simulation engine](https://github.com/leannejdong/EngineSim) and [mgosdt](https://gitlab.com/leannejdong/mgosdt)
 
 - 🔭 Completed a [Async C++ SDK to RESTful API 💜](https://github.com/bitwyre/sdk/tree/develop/cpp)
