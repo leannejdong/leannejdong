@@ -1,25 +1,21 @@
 # Hi there 👋
 
 My name is Leanne Dong. Here is my brief outdated [CV](https://github.com/leannejdong/briefCV).
-I currently work as a IoT project coordinator at ESQ Brisbane.
-Previously I was a freelance IT consultant, a coding/robotic instructor and primary tech educator for at [Junior Engineers](https://www.juniorengineers.com.au/classes). 
-I enjoy technology and spending time with good, simple minded people.
-I was an Australian independent audio developer (Once upon a time I was a researcher in stochastic processes, then turned into a Mathematician after PhD, then turned into a C++ developer during the last two postdocs). I enjoy lots of topics, from networking, cyber security to front end, full stack web development. I'm used to work on music information retrieval. Before that I worked at [ENCS, Concordia University](https://www.concordia.ca/offices/ci/ifo/ENCS.html) as a Postdoctoral Fellow. My focus during postdoc has been Environmental Engineering and xAI software development with C++. My first Postdoc fellowship was granted in UTS (Australia). I worked on modelling online social media behavior using Hawkes point processes by manipulating large dataset in R and Python. My formal academic training has been in Mathematics.(Include computational, Pure, Applied and Statistic)
+Hi, I am a independent IT lead with a Maths PhD (USYD) and two postdoc fellowship in Computer Science.
+I provide a wide range of IT services, from software development to IT infrastructure planning, transformation.
 
-* Key skills: C++, Linux, dabbling hardware audio tech and multimedia art
-* Enjoy audio software development, love hardware, mathematics and friends. NOT interested in participating any contests!
-* MATH := {heart, wellness, fun, ...}
-* Do let me know if you found anything interesting here
+* Key skills: C++, Linux, dabbling hardware, networking specialist IT infrastructure
+
 
 ## Projects (Postdoctoral)
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leannejdong&layout=compact&show_icons=true&hide_border=true&bg_color=232326&icon_color=ebcb8b&hide=jupyter%20notebook,html,Mathematica,TeX,css)](https://github.com/anuraghazra/github-readme-stats)
---->
+
 
 ### Recent projects 
 - NDA (data science, deep learning, audio plugin, audio hardware, logistic)
 - UI design and development for legacy audio hardware (C++/JUCE based)
-
+--->
 ### Completed projects
 - [Audio detection, linux compatibility of scaler2 music plugin](https://www.youtube.com/watch?v=-HKJgiGPLIc)
 - [Multiway-Split Generalized Optimal Sparse Decision Tree](https://gitlab.com/leannejdong/mgosdt)
