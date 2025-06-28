@@ -3,6 +3,7 @@
 My name is Leanne Dong. Here is my brief outdated [CV](https://github.com/leannejdong/briefCV).
 Hi, I am a independent IT lead with a Maths PhD (USYD) and two postdoc fellowship in Computer Science.
 I provide a wide range of IT services, from software development to IT infrastructure planning, transformation.
+As per 29th  2025, I am delighted to say I am reopen to contracting!
 
 * Key skills: C++, Linux, dabbling hardware, networking specialist IT infrastructure
 
@@ -20,7 +21,7 @@ I provide a wide range of IT services, from software development to IT infrastru
 - [Audio detection, linux compatibility of scaler2 music plugin](https://www.youtube.com/watch?v=-HKJgiGPLIc)
 - [Multiway-Split Generalized Optimal Sparse Decision Tree](https://gitlab.com/leannejdong/mgosdt)
 - District Heating and Thermal Network
-- [Undirected graph extension of INSEL ENGINE](https://insel4d.ca/en/home_en.html)
+- [Undirected graph extension of INSEL ENGINE]([https://insel4d.ca/en/home_en.html](https://insel.eu/#news))
 - [Solving a simple Hydraulic Network](https://github.com/leannejdong/SimpleHydraulicNetwork)
 - [A undirected graph approach to circuit network automation and simulation](https://github.com/leannejdong/autocircuit)
    - [characteritic test](https://github.com/leannejdong/testing-circuits)
