@@ -1,11 +1,11 @@
 # Hi there 👋
 
 My name is Leanne Dong. Here is my brief outdated [CV](https://github.com/leannejdong/briefCV).
-Hi, I am a independent IT lead with a Maths PhD (USYD) and two postdoc fellowships in Computer Science.
+Hi, I am a independent IT with a Maths PhD (USYD) and two postdoc fellowships in Computer Science.
 I provide a wide range of IT services, from audio or custom software development to IT infrastructure planning, transformation and networking.
 I am proficient in cross platform development and deployment for either creative or scientific applications. Reopen to contracting!
 
-* Key skills: C++, Audio programming, Linux, dabbling hardware
+* Key skills: C++, Audio programming, Linux, networking, IT infrastructure, server infra and virtualization
 
 
 ## Projects (Postdoctoral)
