@@ -1,11 +1,11 @@
 # Hi there 👋
 
-My name is Leanne Dong. Here is my brief outdated [CV](https://github.com/leannejdong/briefCV).
-Hi, I am a independent IT with a Maths PhD (USYD) and two postdoc fellowships in Computer Science.
+My name is Leanne J Dong (levynoise). Here is my brief outdated [CV](https://github.com/leannejdong/briefCV).
+Hi, I am a freelance audio C++ developer and independent IT with a Maths PhD (USYD) and two postdoc fellowships in Computer Science.
 I provide a wide range of IT services, from audio or custom software development to IT infrastructure planning, transformation and networking.
-I am proficient in cross platform development and deployment for either creative or scientific applications. Reopen to contracting!
+I am proficient in cross platform development and deployment for either creative or scientific applications. Open to contracting!
 
-* Key skills: C++, Audio programming, Linux, networking, IT infrastructure, server infra and virtualization
+* Key skills: C++, Audio programming, Linux, networking, IT infrastructure, server virtualization
 
 
 ## Projects (Postdoctoral)
