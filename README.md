@@ -6,6 +6,11 @@ I provide a wide range of IT services, from audio or custom software development
 I am proficient in cross platform development and deployment for either creative or scientific applications. My passion lies between alternative art and baremetal tech. Open to contracting!
 
 * Key skills: C++, Audio programming, Linux, networking, IT infrastructure, server virtualization
+* Lately deployed apps:
+  - [Beauty booking](https://snaskiama.taile88eb0.ts.net/)
+  - [Chords learning](https://snaskiama.taile88eb0.ts.net/chord-lab)
+* Last project (Legacy):
+  - Carbon Electra Synthesizer for electronic music production
 
 
 ## Projects (Postdoctoral)
