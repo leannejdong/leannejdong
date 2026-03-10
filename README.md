@@ -3,7 +3,8 @@
 My name is Leanne J Dong (levynoise). Here is my brief outdated [CV](https://github.com/leannejdong/briefCV).
 A freelance audio C++ developer and independent IT with a Maths PhD (USYD) and two postdoc fellowships in Computer Science.
 I provide a wide range of IT services, from audio or custom software development to IT infrastructure planning, transformation and networking.
-I am proficient in cross platform development and deployment for either creative or scientific applications. My passion lies between alternative art and baremetal tech. Open to contracting!
+I am proficient in cross platform development and deployment for either creative or scientific applications. My passion lies between alternative art and baremetal tech. 
+I love coolest pragmatic tech for deepest art. Open to contracting!
 For all contract enquiries from past or future clients please get in touch on levynoise@spacetimeit.com
 Do NOT spam me. No free show. Not into participated unpaid discord discussion.
 * Key skills: C++, Audio programming, Linux, networking, IT infrastructure, server virtualization
